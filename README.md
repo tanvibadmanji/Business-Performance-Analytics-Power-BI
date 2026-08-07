@@ -1,6 +1,7 @@
 # 📊 Business Performance Analytics Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis-blue?style=for-the-badge)
 ![Star Schema](https://img.shields.io/badge/Data_Model-Star_Schema-red?style=for-the-badge)
