@@ -300,4 +300,7 @@ This project demonstrates my ability to transform business data into meaningful 
 
 ### Connect with Me
 
-- LinkedIn: linkedin.com/in/tanvi-badmanji
+
+- 📧 **Email:** tanvibadmanji@gmail.com
+- 💼 **LinkedIn:** [Tanvi Badmanji](https://www.linkedin.com/in/tanvi-badmanji/)
+- 💻 **GitHub:** [tanvibadmanji](https://github.com/tanvibadmanji)
