@@ -1,5 +1,10 @@
 # 📊 Business Performance Analytics Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis-blue?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Data_Model-Star_Schema-red?style=for-the-badge)
+
 > An end-to-end Business Intelligence solution built using **Power BI**, **Power Query**, **DAX**, and **Star Schema Data Modeling** to analyze Finance, Sales, Marketing, Supply Chain, and Executive KPIs for AtliQ Hardware.
 
 ---
@@ -301,10 +306,9 @@ This project demonstrates my ability to transform business data into meaningful 
 ### Connect with Me
 
 
-- 📧 **Email:** tanvibadmanji@gmail.com
-- 💼 **LinkedIn:** [Tanvi Badmanji](https://www.linkedin.com/in/tanvi-badmanji/)
+- 📧 **Email:** [tanvibadmanji@gmail.com](mailto:tanvibadmanji@gmail.com)
+- 💼 **LinkedIn:** [Tanvi Badmanji](https://www.linkedin.com/in/tanvi-badmanji)
 - 💻 **GitHub:** [tanvibadmanji](https://github.com/tanvibadmanji)
-
 
 ---
 
