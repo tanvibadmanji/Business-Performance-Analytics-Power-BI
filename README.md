@@ -1,10 +1,13 @@
 # 📊 Business Performance Analytics Dashboard | Power BI
 
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-Data_Analysis-blue?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Data_Model-Star_Schema-red?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis-0078D4?style=for-the-badge)
+![Star Schema](https://img.shields.io/badge/Star_Schema-Data_Model-E63946?style=for-the-badge)
+
+> An end-to-end Business Intelligence solution built using **Power BI, Power Query, DAX, SQL, and Star Schema Data Modeling** to analyze Finance, Sales, Marketing, Supply Chain, and Executive KPIs for AtliQ Hardware.
 
 > An end-to-end Business Intelligence solution built using **Power BI**, **Power Query**, **DAX**, and **Star Schema Data Modeling** to analyze Finance, Sales, Marketing, Supply Chain, and Executive KPIs for AtliQ Hardware.
 
