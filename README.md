@@ -304,3 +304,10 @@ This project demonstrates my ability to transform business data into meaningful 
 - 📧 **Email:** tanvibadmanji@gmail.com
 - 💼 **LinkedIn:** [Tanvi Badmanji](https://www.linkedin.com/in/tanvi-badmanji/)
 - 💻 **GitHub:** [tanvibadmanji](https://github.com/tanvibadmanji)
+
+
+---
+
+⭐ **Thank you for visiting this repository!**
+
+If you found this project interesting, feel free to ⭐ the repository and connect with me on LinkedIn.
