@@ -300,5 +300,4 @@ This project demonstrates my ability to transform business data into meaningful 
 
 ### Connect with Me
 
-- LinkedIn: *Add your LinkedIn profile link*
-- GitHub: *Add your GitHub profile link*
+- LinkedIn: linkedin.com/in/tanvi-badmanji
